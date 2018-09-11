@@ -2,13 +2,10 @@
 templateKey: blog-post
 title: 'Agile Mastery : Transcend the Process'
 date: '2014-02-14T10:35:29-06:00'
-description: >-
-  I'm currently going through a bit of a mental upheaval when it comes to agile
-  methodology and process.
 tags:
   - Agile Mastery
 ---
-For a long time, I’ve been a Scrum guy and not just any scrum guy, but a scrum guy who pokes fun at people who practice ['ScrumBut'](https://www.scrum.org/ScrumBut "ScrumBut").  To me the value of Scrum is in proper execution of the ceremonies.  Over the past few months I've had this sinking feeling that I completely missed the point.  Now I'm ready to admit it: I got it wrong.  I'm using process as a crutch, and my bet is that you and everyone on your team is too.
+I'm currently going through a bit of a mental upheaval when it comes to agile methodology and process.  For a long time, I’ve been a Scrum guy and not just any scrum guy, but a scrum guy who pokes fun at people who practice ['ScrumBut'](https://www.scrum.org/ScrumBut "ScrumBut").  To me the value of Scrum is in proper execution of the ceremonies.  Over the past few months I've had this sinking feeling that I completely missed the point.  Now I'm ready to admit it: I got it wrong.  I'm using process as a crutch, and my bet is that you and everyone on your team is too.
 
 Stepping back for a minute, lets talk about what I mean by mastery.  To create my operational definition I'd like to expropriate a martial arts concept, [Shuhari](http://en.wikipedia.org/wiki/Shuhari "Shuhari"). Shuhari encapsulates the three stages of mastery for Aikido which are, roughly translated: 
 
@@ -25,4 +22,3 @@ The phase I'm most excited about and the phase I want to get my company to is wh
 I want to remove the artificial sprint deadlines and replace them with business priorities that drive feature development.  I want to take away the 2 week feedback loop and replace it with feature iterations that are as rapid as is necessitated by the teams that are involved.  I want to align development with sales and operations in ways not possible because the process is prohibitive.  I want to be so disciplined in the way we work that process becomes unnecessary.  I want to master being Agile, and to do that I have to transcend the process.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=7255031 "Discuss")
- 
